@@ -37,10 +37,13 @@ ul li h5 {
     width: 50px;
 }
 
-#tituloweb{
-    margin:0 auto;
-    display:table;
+
+#tituloweb {
+    margin: 0 auto;
+    display: table;
+    margin-right: 83%;
 }
+
 
 #imagen {
     width: 34%;
